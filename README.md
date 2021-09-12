@@ -1,5 +1,7 @@
 # Design optimization example
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cyrilpic/do-modact/blob/master/Actuator_design_optimization.ipynb)
+
 This repository contains an example notebook that allows to explore the automated design of actuators using the modeling code from [MODAct](https://github.com/epfl-lamd/modact).
 
 If you are using this work further, please cite the publication where MODAct was introduced:
